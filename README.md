@@ -1,5 +1,5 @@
 ### Hello World 👋
-- 🌱 I’m currently learning Github
+- 🌱 I’m currently learning GitHub
 <!--
 **RaflyMuhammadMaulana/RaflyMuhammadMaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
